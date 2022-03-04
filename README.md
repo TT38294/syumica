@@ -99,7 +99,7 @@ https://docs.google.com/spreadsheets/d/1-KpDMyqNWBN54WpJsKs6PvH6kYY1P--m9za4WStb
 
 # データベース設計
 -----------------------------------------------------------------------------------------------------
-![ER](https://user-images.githubusercontent.com/97220381/156672848-feafd43b-960f-4fda-8c16-8e14737a1de7.png)
+![ER](https://user-images.githubusercontent.com/97220381/156679377-fc978fb8-3ccc-4cda-aa30-3415e9f4b0c6.png)
 
 
 
