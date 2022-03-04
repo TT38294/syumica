@@ -86,11 +86,11 @@ https://docs.google.com/spreadsheets/d/1-KpDMyqNWBN54WpJsKs6PvH6kYY1P--m9za4WStb
 趣味投稿機能
 投稿編集機能
 投稿削除機能
-投稿詳細表示機能
 投稿一覧表示機能
+投稿詳細表示機能
 コメント機能
 投稿検索機能
-人気投稿ランキング機能
+投稿ランキング機能
 投稿に対するいいね機能
 
 
